@@ -1,8 +1,5 @@
-「＊」即睇無，待補。
-
-```
-Zaosai ga Taobhoi jnapian
-走私   佮 偷賣    鴉片
+# Zaosai ga Taobhoi jnapian
+  走私   佮 偷賣    鴉片
 
     Ly baq tnianandna Rhiqbngnia zaosai
     汝 捌  聽人呾     日本＊     走私
@@ -92,4 +89,3 @@ ziudio kilai xuandui zaosai, kilai siaolia zaosai,
 kilai siaolia tao bhoi jnapian! (Laonoug-
 起來  ＊＊    偷  賣   鴉片      老孥囝
 nia).
-```

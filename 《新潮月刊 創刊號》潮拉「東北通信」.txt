@@ -1,8 +1,6 @@
-「＊」即睇無，待補。
+# Dangbaq Tonqsin
+  東北通信
 
-```
-Dangbaq Tonqsin
-東北通信
 Cinjnaigai D.——zxue;
 親愛個         ＊＊
 
@@ -10,6 +8,7 @@ Cinjnaigai D.——zxue;
     現在     我來  同? 恁  報告官個?    消
 seq:
 息
+
     1) Gngy gungaigai gnuawan tuancuq-
        ＊＊ ＊＊＊    ＊＊    ＊出
 lai gai siaoseq dna: zi gngn Rhiqbn digoqzunqi
@@ -37,7 +36,6 @@ enq zia laopian deqrhingai xuaqzy, gaqgeq
 ＊  ＊  ＊＊    ＊＊＊     ＊＊    結局
 xyco Rhiqbn ga Muaziugai gundui zoqzoq
 許撮 日本   佮 滿洲個    軍隊   ＊＊
-	→xycoq
 donqliao Ngijonqgun gai goi, Nqijonqgungai
 ＊＊     義勇軍     個  ＊   義勇軍個
 duadui zu dui In gai I baowigin nago; gaqgeq
@@ -48,10 +46,8 @@ Muaziubnia, pasniogai u 30 ghuanan! bun I
 滿洲兵      拍傷個    有   外人     分  伊
 zaokygai znia 10 ghuanan-dnia. Xyco siusnio
 走去個?  正?     外人＊        許撮 ＊＊
-	→Xycoq
-gai nan lonqzonq do 16 xo xyme 3 dian zenqg-
+gai nan lonqzonq do 16 xo xyme 3 {dian} zenqg- →diam
 個  人  攏總     在    號 許夜?  點   鐘個
-	→diam
 ai sizun sanqgao Xarhybin Nangang ciliq
    時陣  送到?   哈爾濱   南崗    ＊＊
 wijni ky wi. 17xo iu u zeqgai snio bnia si liao!
@@ -59,7 +55,6 @@ wijni ky wi. 17xo iu u zeqgai snio bnia si liao!
 
     Zico siaoseq do Muaziugai bozuago si tnoi
     只撮 消息    在 滿洲個    報紙塊  是 睇
-	→Zicoq
 bhogai, Rhiqbn ga Muaziu gai gnuaxuxue
 無個    日本   佮 滿洲   個  ＊＊＊
 longzonq dna: gaisi inwi lo iansiqgai sizun,
@@ -117,8 +112,10 @@ min!
 
 ——Fantan, 19 xo, 8gh. 1936n.——
   ＊         號   月      年
+
 (Do Womndi shgie eqcuqlai)
  在 我們的 世界  譯出來?
+
 ——Znio bnoi zipian tonqsin, suirhian u
   上   爿   只篇   通信     雖然     有
 zeqco we inwi sigan ge kagu biansenq gueky,
@@ -131,6 +128,6 @@ bozua denqzai, sojni zu guaqdnia denqcuqlai
 報紙  ＊＊     所以  就 ＊＊     ＊出來
 naan Dioziu dangbao tnoi.
 俺   潮州   同胞    睇
+
 ——pianzia
   編者
-```

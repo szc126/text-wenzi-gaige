@@ -1,12 +1,9 @@
-「→」即訂正。
+# 新文字五分鐘讀物
 
-----
-
-新文字五分鐘讀物
 許地山：
 
-	NOUDAE
-	奴隸
+## NOUDAE (＊)
+   奴隸
 
 	Noudae ge gunqzog xae bonq jen-
 	奴隸   嘅 工作    係  幫   人
@@ -15,19 +12,17 @@ dei zou silei-ge. Zijaujen ge gunqzog
 xae wae zigeige leijig. Zig xoji gonq
 係  爲  自己嘅  利益    即  可以 講
 xae wae jenley ge fadzin-ge. Soji odei
-係  爲  人類   嘅 發展嘅      所以我哋
-inqdonq leijunq degxenge sigan lae
-	→degxange
-應當    利用    得閒嘅   時間  嚟
+係  爲  人類   嘅 發展嘅     所以 我哋
+inqdonq leijunq {degxen}ge sigan lae →degxan
+應當    利用    得閒嘅     時間  嚟
 wencoed senqwudsoenq d.d. bidsey ge
 搵出    生活上       等等 必須   嘅
 zisig tunqmai geinenq, mxou lonqfaezo
 知識  同埋    技能     唔好 浪費咗
 xaae doubog sigjin jemzau d.d. siuxouge
 喺   賭博   食煙   飲酒   等等 消耗嘅
-sengwudsoenq. Gausidi sisoenqga cenq-
-	→senqwudsoenq
-生活上        舊時啲  思想家    曾
+{sengwud}soenq. Gausidi sisoenqga cenq- →senqwud
+生活上          舊時啲  思想家    曾
 ginq gonqbei odei teinq: "zisig zau
 經   講畀    我哋 聽      知識  就
 xae nenqlig tunqmai zijau." Odei
@@ -61,7 +56,11 @@ xou-a. (yn)
 
 ----
 
-	NOU-DAI
+# 新文字五分鐘讀物
+
+許地山：
+
+## NOU-DAI
 
 	Nou-dai ge gung-zok hai (係) bong jan-
 dei zou si-lei--ge. Zi-jau-jan ge gung-zok
